@@ -1,0 +1,6 @@
+.main-table td {
+  border: 1px solid black;
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
