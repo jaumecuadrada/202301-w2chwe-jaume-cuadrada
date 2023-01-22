@@ -1,6 +1,17 @@
-.main-table td {
+.table {
   border: 1px solid black;
-  background-color: red;
-  width: 20px;
-  height: 20px;
+}
+
+.cell {
+  width: 10px;
+  height: 10px;
+  border: 1px solid red;
+}
+
+.filled {
+  background-color: black;
+}
+
+.empty {
+  background-color: white;
 }
